@@ -1,92 +1,108 @@
-<!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Sai Teja</h1>
-<h3 align="center">AI/ML Engineer | Data Analyst | Problem Solver 🚀</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kota-sai-teja-6a760429b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin">
-  </a>
-  <a href="mailto:kotasaiteja100@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail">
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:1a3c5e,100:1d6fa8&height=200&section=header&text=Sai%20Teja&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Data%20Analytics%20%7C%20Full%20Stack%20Learner&descAlignY=58&descSize=18" />
 
----
+</div>
 
-## 👨‍💻 About Me
+<div align="center">
 
-- 🎓 B.Tech Student  
-- 🤖 Passionate about AI, Machine Learning & Data Analytics  
-- 🚀 Building real-world intelligent systems  
-- 💡 Interested in solving real-world problems using technology  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Teja-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kota-sai-teja-6a760429b/)
+[![GitHub](https://img.shields.io/badge/GitHub-AA1--05--saiteja-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AA1-05-saiteja)
+[![Email](https://img.shields.io/badge/Email-kotasaiteja100%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kotasaiteja100@gmail.com)
+[![Location](https://img.shields.io/badge/Andhra%20Pradesh-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=AndhraPradesh,India)
+
+</div>
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 About Me
 
-- 🔥 ResumeXcelerate AI (AI Resume Analyzer)  
-- 🌱 Crop Disease Detection (Smart Agriculture Project)  
-- 📊 Data Analytics Dashboards  
+```python
+sai_teja = {
+    "role"      : "AI/ML Enthusiast & Data Analyst",
+    "education"  : "B.Tech (AI & Data Analytics)",
+    "focus"      : "Building real-world AI solutions",
+    "skills"     : ["Python", "Machine Learning", "Data Analytics", "SQL"],
+    "interests"  : ["AI Systems", "Smart Agriculture", "Data-driven Solutions"],
+    "goal"       : "To become an AI Engineer solving real-world problems 🚀"
+}
+🚀 Flagship Projects
+<table> <tr> <td width="50%" valign="top">
+🔥 ResumeXcelerate AI
 
----
+AI-powered Resume Analysis System
 
-## 🛠️ Tech Stack
+📊 Resume scoring with AI
+🎯 Career roadmap generation
+📈 Skill gap identification
+⚡ Built using ML + backend logic
+</td> <td width="50%" valign="top">
+🌱 Crop Disease Detection
 
-**Languages:**  
-`Python` `Java` `SQL`
+Smart Agriculture AI System
 
-**AI/ML:**  
-`Machine Learning` `Deep Learning` `Data Science`
+🧠 Image-based plant disease detection
+📷 Deep Learning classification model
+🌾 Helps farmers with better decisions
+⚡ Built using ML + Computer Vision
+</td> </tr> <tr> <td width="50%" valign="top">
+📊 Data Analytics Dashboard
 
-**Tools:**  
-`Power BI` `Excel` `Azure`
+Business Intelligence System
 
-**Web:**  
-`HTML` `CSS` `JavaScript`
+📈 Power BI dashboards
+📊 SQL-based data analysis
+💡 Insight generation from data
+</td> <td width="50%" valign="top">
+💻 Web & AI Projects
+🌐 Full-stack mini projects
+🤖 AI-based applications
+⚡ Learning modern technologies
+</td> </tr> </table>
+🛠️ Tech Stack
+<div align="center">
 
----
+AI / ML
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AA1-05-saiteja&show_icons=true&theme=default"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AA1-05-saiteja&layout=compact"/>
-</p>
 
----
 
-## 📌 Featured Projects
 
-### 🔥 ResumeXcelerate AI
-AI-powered system that analyzes resumes and provides a career roadmap.
+Data & Analytics
 
-### 🌱 Crop Disease Detection
-Deep learning model that detects plant diseases from leaf images.
 
-### 📊 Data Analytics
-Power BI dashboards and SQL-based analysis for business insights.
 
----
 
-## 🏆 Achievements
 
-- IBM Java Fundamentals  
-- Power BI Certification  
-- IBM Cloud Essentials  
-- Wipro Digital Marketing  
 
----
+Web Development
 
-## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/kota-sai-teja-6a760429b/  
-- Email: kotasaiteja100@gmail.com  
 
----
 
-## 💡 Quote
 
-"Consistency beats talent when talent doesn't work hard." 💯
+
+</div>
+🏆 Achievements
+🥇 Certification	🏛️ Organization
+IBM Java Fundamentals	IBM
+Power BI Certification	Microsoft
+IBM Cloud Essentials	IBM
+Wipro Digital Marketing	Wipro
+📊 GitHub Stats
+<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=AA1-05-saiteja&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AA1-05-saiteja&layout=compact&theme=tokyonight&hide_border=true" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AA1-05-saiteja&theme=tokyonight&hide_border=true" /> </div>
+📬 Let's Connect
+<div align="center">
+
+📩 Email: kotasaiteja100@gmail.com
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/kota-sai-teja-6a760429b/
+
+</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d6fa8,50:1a3c5e,100:0a0f1e&height=100&section=footer" />
+
+<sub>⭐ If you like my work, consider giving a star. It motivates me to build more!</sub>
+
+</div> ```
