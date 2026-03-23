@@ -1,108 +1,84 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:1a3c5e,100:1d6fa8&height=200&section=header&text=Sai%20Teja&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Data%20Analytics%20%7C%20Full%20Stack%20Learner&descAlignY=58&descSize=18" />
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sai%20Teja-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kota-sai-teja-6a760429b/)
-[![GitHub](https://img.shields.io/badge/GitHub-AA1--05--saiteja-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AA1-05-saiteja)
-[![Email](https://img.shields.io/badge/Email-kotasaiteja100%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kotasaiteja100@gmail.com)
-[![Location](https://img.shields.io/badge/Andhra%20Pradesh-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=AndhraPradesh,India)
-
-</div>
+<h1 align="center">Hi 👋, I'm Sai Teja</h1>
+<h3 align="center">🚀 AI/ML Enthusiast | Data Analytics | Full Stack Learner</h3>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
+- 🎓 B.Tech Student  
+- 🤖 Passionate about **AI, Machine Learning & Data Science**  
+- 📊 Skilled in **Data Analysis & Visualization**  
+- 🚀 Building real-world projects  
+- 💡 Always learning new technologies  
 
-```python
-sai_teja = {
-    "role"      : "AI/ML Enthusiast & Data Analyst",
-    "education"  : "B.Tech (AI & Data Analytics)",
-    "focus"      : "Building real-world AI solutions",
-    "skills"     : ["Python", "Machine Learning", "Data Analytics", "SQL"],
-    "interests"  : ["AI Systems", "Smart Agriculture", "Data-driven Solutions"],
-    "goal"       : "To become an AI Engineer solving real-world problems 🚀"
-}
-🚀 Flagship Projects
-<table> <tr> <td width="50%" valign="top">
-🔥 ResumeXcelerate AI
+---
 
-AI-powered Resume Analysis System
+## 🚀 Featured Projects
 
-📊 Resume scoring with AI
-🎯 Career roadmap generation
-📈 Skill gap identification
-⚡ Built using ML + backend logic
-</td> <td width="50%" valign="top">
-🌱 Crop Disease Detection
+### 🔥 ResumeXcelerate AI
+- AI-powered resume analysis system  
+- Provides **career roadmap & skill gap insights**  
+- Built using ML + backend logic  
 
-Smart Agriculture AI System
+---
 
-🧠 Image-based plant disease detection
-📷 Deep Learning classification model
-🌾 Helps farmers with better decisions
-⚡ Built using ML + Computer Vision
-</td> </tr> <tr> <td width="50%" valign="top">
-📊 Data Analytics Dashboard
+### 🌱 Crop Disease Detection
+- Detects plant diseases using image classification  
+- Helps farmers with smart agriculture  
+- Built with Deep Learning  
 
-Business Intelligence System
+---
 
-📈 Power BI dashboards
-📊 SQL-based data analysis
-💡 Insight generation from data
-</td> <td width="50%" valign="top">
-💻 Web & AI Projects
-🌐 Full-stack mini projects
-🤖 AI-based applications
-⚡ Learning modern technologies
-</td> </tr> </table>
-🛠️ Tech Stack
-<div align="center">
+### 📊 Data Analytics Projects
+- Power BI dashboards  
+- SQL-based analysis  
+- Business insights from data  
 
-AI / ML
+---
 
+## 🛠 Tech Stack
 
+### 💻 Programming
+`Python` `Java` `SQL`
 
+### 🤖 AI/ML
+`Machine Learning` `Data Science`
 
+### 📊 Tools
+`Power BI` `Excel` `Azure`
 
+### 🌐 Web
+`HTML` `CSS` `JavaScript`
 
-Data & Analytics
+---
 
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AA1-05-saiteja&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AA1-05-saiteja&layout=compact&theme=tokyonight" />
+</p>
 
+---
 
+## 🏆 Achievements
+- 🏅 IBM Java Fundamentals  
+- 🏅 Power BI Certification  
+- 🏅 IBM Cloud Essentials  
+- 🏅 Wipro Digital Marketing  
 
-Web Development
+---
 
+## 📫 Connect With Me
 
+- 📧 Email: kotasaiteja100@gmail.com  
+- 💼 LinkedIn: (Add your link here)  
 
+---
 
+## 💡 Quote
+_"Consistency beats talent when talent doesn’t work hard."_ 💯
 
-
-</div>
-🏆 Achievements
-🥇 Certification	🏛️ Organization
-IBM Java Fundamentals	IBM
-Power BI Certification	Microsoft
-IBM Cloud Essentials	IBM
-Wipro Digital Marketing	Wipro
-📊 GitHub Stats
-<div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=AA1-05-saiteja&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AA1-05-saiteja&layout=compact&theme=tokyonight&hide_border=true" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AA1-05-saiteja&theme=tokyonight&hide_border=true" /> </div>
-📬 Let's Connect
-<div align="center">
-
-📩 Email: kotasaiteja100@gmail.com
-
-🔗 LinkedIn:
-https://www.linkedin.com/in/kota-sai-teja-6a760429b/
-
-</div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d6fa8,50:1a3c5e,100:0a0f1e&height=100&section=footer" />
-
-<sub>⭐ If you like my work, consider giving a star. It motivates me to build more!</sub>
-
-</div> ```
+---
